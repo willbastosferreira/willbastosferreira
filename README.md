@@ -1,16 +1,41 @@
-### Hi there 👋
+### Oi, meu nome é Will! 😃
 
-<!--
-**willbastosferreira/willbastosferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👦🏻Motivado pela tecnologia e por tudo que ela pode nos proporcionar.
+- 🖥 Atualmente no mundo do big data e IA
+- 💡Estou sempre em busca de conhecimento. Sempre evoluindo para ser um ser humano melhor, um profissional melhor.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Você também me encontra em:
+
+<a href="https://www.linkedin.com/in/williambastosferreira/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+<a href="https://www.instagram.com/willbastosferreira/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
