@@ -4,7 +4,7 @@
 - 🖥Atualmente no mundo do big data e IA
 - 💡Estou sempre em busca de conhecimento. Sempre evoluindo para ser um ser humano melhor, um profissional melhor.
 
-**Background in:** Python, Machine Learning, Finite Elements e Business Intelligence
+**Background in:** Python, Machine Learning, Engenharia Mecânica e Business Intelligence
 
 
 Você também me encontra em:
